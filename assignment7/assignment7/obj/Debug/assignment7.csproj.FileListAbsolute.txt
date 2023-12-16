@@ -1,0 +1,7 @@
+F:\phase2\daily assignments\assignment7\assignment7\assignment7\bin\Debug\assignment7.exe.config
+F:\phase2\daily assignments\assignment7\assignment7\assignment7\bin\Debug\assignment7.exe
+F:\phase2\daily assignments\assignment7\assignment7\assignment7\bin\Debug\assignment7.pdb
+F:\phase2\daily assignments\assignment7\assignment7\assignment7\obj\Debug\assignment7.csproj.AssemblyReference.cache
+F:\phase2\daily assignments\assignment7\assignment7\assignment7\obj\Debug\assignment7.csproj.CoreCompileInputs.cache
+F:\phase2\daily assignments\assignment7\assignment7\assignment7\obj\Debug\assignment7.exe
+F:\phase2\daily assignments\assignment7\assignment7\assignment7\obj\Debug\assignment7.pdb
